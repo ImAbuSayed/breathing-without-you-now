@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathing-without-you-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Breathing Without You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-without-you-now/) |
+| **Get License** | [Obtain a Music License for Breathing Without You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-without-you-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can taste the midnight lingering on your skin
+> Every shadow pulls me closer to where you begin
+> There is nothing but the quiet falling down
+> And I am barely breathing without you now
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
