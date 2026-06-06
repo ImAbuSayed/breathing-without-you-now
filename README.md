@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathing-without-you-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Breathing Without You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-without-you-now/) |
+| **Get License** | [Official Music Licensing for Breathing Without You Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathing-without-you-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bdedaf6bff0a267d7ff3accd5401ac3972d3a7e1089cf969606451b86a34dce5` |
 | **Timestamp** | June 06, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

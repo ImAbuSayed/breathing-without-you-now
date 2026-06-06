@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Breathing Without You Now
+
+This log tracks the cryptographic history and versioning for the song **Breathing Without You Now** (breathing-without-you-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-06T13:46:12.282095 | `v1` | `bdedaf6bff0a267d7ff3accd5401ac3972d3a7e1089cf969606451b86a34dce5` | `784c0a0e6ff1550feaceb0d3014f5825c9608c1e5389fe5fca591437ecdbca38` | `2026-06-06_breathing-without-you-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
